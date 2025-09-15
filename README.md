@@ -3,12 +3,12 @@
 Live search + category chips + subcategory filter (via WP REST API) for multiple categories using a shortcode.
 
 # Screenshot
-
+![Preview](https://github.com/elias1435/wp_post_live_search_category_chips/blob/main/wp-video-posts-live.webp?raw=true)
 
 
 **Shortcode**
 ```text
-[video_posts_live category_slugs="videos, news, investment" per_page="12" category_logic="or" include_children="true"]
+[video_posts_live category_slugs="videos, news, investment" per_page="12" category_logic="or" include_children="true"]```
 
 Attributes
 
